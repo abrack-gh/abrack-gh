@@ -3,7 +3,7 @@
 `Front End - Back End - Full Stack`
 
 
-<p>I am a Junior Full Stack developer working in the MoD. This is my personal profile where you will find repositories for all of my personal/educational related projects. Feel free to have a look around and if you have any advice, changes, reccommendations, please feel free to get in touch as I am always eager to improve. </p>
+<p>I am a Junior Full Stack developer working in the MoD. This is my personal profile where you will find repositories for all of my personal/educational related projects. Feel free to have a look around and if you have any advice, changes, recommendations, please feel free to get in touch as I am always eager to improve. </p>
 
 <h2> Skills and Languages </h2>
 

@@ -13,20 +13,18 @@ The vast majority of my skill lays with Java and it's associated frameworks, pri
 
 <h2> Tools I Use </h2>
 
-I use an wide array of tools for accomplishing tasks. 
-
 <img align="left" alt="JetBrains IntelliJ IDEA" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/><img align="left" alt="GitHub" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
             <img align="left" alt="Selenium" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
             <img align="left" alt="MacOS" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
             <img align="left" alt="AWS" width="50px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <br></br>
-<h2> My Coding Journey...</h2>
+<h2>Why?</h2>
 
-I first started using computers at a very young age. My dad passed me down his old Acer Laptop with Windows XP. I first found myself fascinated with cybersecurity and online threats, and I would spend hours watching people set up VM's and download all sorts of malware to see how their Anti-Virus suite would respond to them. Fast forward a few years, and my interests turned to developing. 
+This repository is a personal sandbox, where I demonstrate projects I've been working on. I also have my "scratchpad" for testing out new concepts and 'doodling'.
 
-At a young age, I got into simple HTML and CSS. Looking at source code for other websites, I started using this to build my own 'websites. I stopped developing for a few years while I went to University. But I soon realised that this is what I loved doing. Fast forward to today, and I love what I am doing.
+There's lots from Core Java, Spring/Boot, & Java FX. 
 
-Thank you for checking out my profile, and have a wonderful day! :)
+Also, there is CS50 homework.
           
           
           

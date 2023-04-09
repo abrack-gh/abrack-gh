@@ -1,4 +1,4 @@
-<h3>👨‍💻 Alex Brackenridge - Junior Software Engineer</h3>
+<h3>👨‍💻 Alex Brackenridge - Software Engineer</h3>
 
 
 <p>I am a developer working in the MoD. This is my personal profile where you will find all of my personal/educational related projects. Any advice or constructive feedback is warmly received. </p>

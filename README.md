@@ -22,7 +22,7 @@ The vast majority of my skill lays with Java and it's associated frameworks, pri
 
 This repository is a personal sandbox, where I demonstrate projects I've been working on. I also have my "scratchpad" for testing out new concepts and 'doodling'.
 
-There's lots from Core Java, Spring/Boot, & Java FX. 
+There's lots from Core Java, Spring, & Java FX. 
 
 Also, there is CS50 homework.
           

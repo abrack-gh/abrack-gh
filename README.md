@@ -1,11 +1,6 @@
-<h3>👨‍💻 Alex Brackenridge - Software Engineer</h3>
-
-
-<p>I am a developer working in the MoD. This is my personal profile where you will find all of my personal/educational related projects. Any advice or constructive feedback is warmly received. </p>
+<p>I am a young developer. This is my personal profile where you will find all of my personal/educational related projects. Any advice or constructive feedback is warmly received. </p>
 
 <h2> Skills and Languages </h2>
-
-The vast majority of my skill lays with Java and it's associated frameworks, primarily Spring.
 
 <img align="left" alt="Java" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img align="left" alt="Spring" width="50px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /><img align="left" alt="MySQL" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
             <img align="left" alt="GraphQL" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
@@ -21,11 +16,6 @@ The vast majority of my skill lays with Java and it's associated frameworks, pri
 <h2>Why?</h2>
 
 This repository is a personal sandbox, where I demonstrate projects I've been working on. I also have my "scratchpad" for testing out new concepts and 'doodling'.
-
-There's lots from Core Java, Spring, & Java FX. 
-
-Also, there is CS50 homework.
-          
           
           
           
